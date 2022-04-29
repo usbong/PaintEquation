@@ -1,6 +1,10 @@
 # PaintEquation
 FROM Usbong R&amp;D;  
 
+## Reference
+
+### 1) Abante, M. (2009). "[Multimedia and Web Design: Fireworks and Flash 8](https://www.anvilpublishing.com/shop-anv/text-books/college-reference/fireworks-flash-8/)". Philippines: Anvil Publishing
+
 ## Open Source Software License
 Copyright 2020~2022 SYSON, MICHAEL B.
 
